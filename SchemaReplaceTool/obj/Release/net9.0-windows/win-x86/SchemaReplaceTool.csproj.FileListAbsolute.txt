@@ -1,0 +1,16 @@
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Release\net9.0-windows\win-x86\SchemaReplaceTool.exe
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Release\net9.0-windows\win-x86\SchemaReplaceTool.deps.json
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Release\net9.0-windows\win-x86\SchemaReplaceTool.runtimeconfig.json
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Release\net9.0-windows\win-x86\SchemaReplaceTool.dll
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Release\net9.0-windows\win-x86\SchemaReplaceTool.pdb
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SqlSchemaReplacer.MainForm.resources
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SchemaReplaceTool.csproj.GenerateResource.cache
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SchemaReplaceTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SchemaReplaceTool.AssemblyInfoInputs.cache
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SchemaReplaceTool.AssemblyInfo.cs
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SchemaReplaceTool.csproj.CoreCompileInputs.cache
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SchemaReplaceTool.dll
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\refint\SchemaReplaceTool.dll
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SchemaReplaceTool.pdb
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\SchemaReplaceTool.genruntimeconfig.cache
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Release\net9.0-windows\win-x86\ref\SchemaReplaceTool.dll

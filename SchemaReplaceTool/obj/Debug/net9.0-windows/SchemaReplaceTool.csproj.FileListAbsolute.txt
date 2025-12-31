@@ -1,0 +1,16 @@
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Debug\net9.0-windows\SchemaReplaceTool.exe
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Debug\net9.0-windows\SchemaReplaceTool.deps.json
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Debug\net9.0-windows\SchemaReplaceTool.runtimeconfig.json
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Debug\net9.0-windows\SchemaReplaceTool.dll
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\bin\Debug\net9.0-windows\SchemaReplaceTool.pdb
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SqlSchemaReplacer.MainForm.resources
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SchemaReplaceTool.csproj.GenerateResource.cache
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SchemaReplaceTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SchemaReplaceTool.AssemblyInfoInputs.cache
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SchemaReplaceTool.AssemblyInfo.cs
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SchemaReplaceTool.csproj.CoreCompileInputs.cache
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SchemaReplaceTool.dll
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\refint\SchemaReplaceTool.dll
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SchemaReplaceTool.pdb
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\SchemaReplaceTool.genruntimeconfig.cache
+D:\SoureCode\Personal\ReplaceTool\SchemaReplaceTool\SchemaReplaceTool\obj\Debug\net9.0-windows\ref\SchemaReplaceTool.dll

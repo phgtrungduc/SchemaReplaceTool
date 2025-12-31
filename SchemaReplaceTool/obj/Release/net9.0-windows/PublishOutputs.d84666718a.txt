@@ -1,0 +1,5 @@
+C:\Users\ducpt\Desktop\ReplaceTool\SchemaReplaceTool.exe
+C:\Users\ducpt\Desktop\ReplaceTool\SchemaReplaceTool.dll
+C:\Users\ducpt\Desktop\ReplaceTool\SchemaReplaceTool.deps.json
+C:\Users\ducpt\Desktop\ReplaceTool\SchemaReplaceTool.runtimeconfig.json
+C:\Users\ducpt\Desktop\ReplaceTool\SchemaReplaceTool.pdb
